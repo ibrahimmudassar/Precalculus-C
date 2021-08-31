@@ -9,3 +9,5 @@ There was no code online for my textbook, and I wanted the online version so I d
 If this link ever breaks, contact me ASAP.
 
 It is broken up by chapter, and the individual pdf pages as well as their svg counterparts are provided. The full uncompressed pdf is available at a staggering 1.4 GB.
+
+The python code above is how I attained the raw data, I then polished it with OCR from Adobe Acrobat
